@@ -32,11 +32,12 @@ This Library Management System is a simple console application built using C tha
 2. Run the executable: `./libraryMgntSystem`.
 3. Follow the on-screen prompts to register, login, and interact with the library system.
 
-### Example Interaction
-
 ## Code File Details
 - **`libraryMgntSystem.c`**: The provided C code that implements the above functionality.
 - **`users.dat`**: Data file for user storage.
+
+## Contributions
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests. If you have suggestions or issues, please open an issue or contact me.
 
 ## Contact
 For any issues or feedback, please reach out to [mayurahire863@gmail.com].
